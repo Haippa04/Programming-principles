@@ -18,7 +18,7 @@
             int rij = dobbelsteen.Next(1, 7);
 
             Console.WriteLine($"Er zijn {aantalBussen} bussen nodig.");
-            Console.WriteLine($"Elke student betaalt {prijsPerStudent} euro.");
+            Console.WriteLine($"Elke student betaalt {prijsPerStudent} euro");
             Console.WriteLine($"Rij {rij} mag als eerste instappen.");
         }
     }
