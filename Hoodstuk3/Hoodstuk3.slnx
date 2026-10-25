@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Char_of_string/Char_of_string.csproj" Id="0696ea7f-93e8-4b52-b6f9-c7a692813a14" />
+  <Project Path="Escape_conversatie/Escape_conversatie.csproj" Id="ef3ece5e-09cc-466d-98ae-6dbe74692507" />
+  <Project Path="Hoodstuk3/Mad Libs.csproj" />
+  <Project Path="prijskaartje/prijskaartje.csproj" Id="1c6a7e1f-000d-4ffb-9967-814f838d6e2f" />
+  <Project Path="Stevens_bestandspad/Stevens_bestandspad.csproj" Id="40d36fe0-3edf-4566-a673-321765a68715" />
+  <Project Path="Systeem_informatie/Systeem_informatie.csproj" Id="61bd6a2d-c0e3-4e05-9639-7ad2e42cb733" />
+  <Project Path="Tekens_uit_de_tabel/Tekens_uit_de_tabel.csproj" Id="07dee9d9-db6d-4ab0-8c1c-ece250b9e9b5" />
+  <Project Path="Unicode_art/Unicode_art.csproj" Id="c8b17342-7e93-4aec-880f-3f35f2155c0c" />
+</Solution>

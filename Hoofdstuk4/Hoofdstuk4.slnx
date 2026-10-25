@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="BMI/BMI.csproj" />
+  <Project Path="Breakpoint-detective/Breakpoint-detective.csproj" />
+  <Project Path="Feestkassa/Feestkassa.csproj" Id="0b3e4135-3a3f-4b35-8c01-8e27aa5cd678" />
+  <Project Path="Hoofdstuk4/oefening 2.csproj" />
+  <Project Path="Op-de-poef/Op-de-poef.csproj" />
+  <Project Path="SuperComputer/SuperComputer.csproj" />
+  <Project Path="Wisselgeld in centen/Wisselgeld in centen.csproj" Id="dc540a14-0750-43db-ab79-cf03386dcc98" />
+</Solution>
