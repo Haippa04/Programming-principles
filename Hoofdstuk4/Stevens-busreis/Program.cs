@@ -17,7 +17,7 @@
 
             double hoeveelheidBus = Math.Ceiling(aantalStudenten / aantalPlaatsen);
             double totalePrijsBus = hoeveelheidBus * kostPerBus;
-            double kostPerStudent = Math.Round(totalePrijsBus / aantalStudenten);
+            double kostPerStudent = Math.Round((totalePrijsBus / aantalStudenten), MidpointRounding.AwayFromZero);
             int rijNummer = randomGenerator.Next(0, 7);
           
 
