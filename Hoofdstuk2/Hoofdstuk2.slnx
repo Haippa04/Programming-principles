@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="BTW/BTW.csproj" Id="98b266e7-f68d-42ef-b6e1-699209050e70" />
+  <Project Path="ConsoleApp1/simple maths.csproj" />
+  <Project Path="DemoOefeing/DemoOefeing.csproj" />
+  <Project Path="Dertien in een dozijn/Dertien in een dozijn.csproj" Id="4c1e627c-8bca-432e-bdad-c43acbbff571" />
+  <Project Path="euro naar dollar/euro naar dollar.csproj" />
+  <Project Path="gemiddelde/gemiddelde.csproj" />
+  <Project Path="Gewicht in space/Gewicht in space.csproj" Id="23e05c0b-f912-40bc-ba91-874611a260c1" />
+  <Project Path="Graden omzetten/Graden omzetten.csproj" Id="ac5a1e8a-7cc8-4673-b26d-3918a6f0a566" />
+  <Project Path="KillDeathRatio/KillDeathRatio.csproj" />
+  <Project Path="Stevens gemiddelde/Stevens gemiddelde.csproj" Id="ed1305c3-0e2c-42e4-8a66-7d6190b51414" />
+  <Project Path="Voorspel de uitvoer/Voorspel de uitvoer.csproj" Id="ff451c26-bd46-4ca8-b5f9-b6dcac6351a4" />
+  <Project Path="WelkDatatype/WelkDatatype.csproj" />
+</Solution>
