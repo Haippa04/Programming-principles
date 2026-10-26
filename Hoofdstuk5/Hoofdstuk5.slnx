@@ -2,6 +2,7 @@
   <Project Path="BMI met if/BMI met if.csproj" Id="828be0cc-83ef-4a90-ae45-508932b172a7" />
   <Project Path="Casino/Casino.csproj" />
   <Project Path="Orakeltje van Delphi, part deux/Orakeltje van Delphi, part deux.csproj" Id="70038373-a502-4b9f-928b-41185555363b" />
+  <Project Path="Pretparkpoort/Pretparkpoort.csproj" Id="748866a1-5267-493e-8524-69e1153be9e9" />
   <Project Path="Schoenverkoper/Schoenverkoper.csproj" Id="b08e2fba-4a50-4734-b100-7a2dd8d288af" />
   <Project Path="Stevens ticketprijs/Stevens ticketprijs.csproj" Id="29b67e95-21a0-4e2c-ada8-97571e695f11" />
 </Solution>
