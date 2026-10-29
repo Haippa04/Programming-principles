@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="Euler project/Euler project.csproj" />
   <Project Path="Hoofdstuk6/Hoofdstuk6.csproj" />
+  <Project Path="Tafels van vermenigvuldigen 1/Tafels van vermenigvuldigen 1.csproj" />
   <Project Path="Trace de teller/Trace de teller.csproj" />
 </Solution>
