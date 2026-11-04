@@ -4,6 +4,7 @@
   <Project Path="Ohm-berekenaar/Ohm-berekenaar.csproj" Id="ab3f64de-a32c-4f08-ab1c-afbd9c28e8fb" />
   <Project Path="Orakeltje van Delphi, part deux/Orakeltje van Delphi, part deux.csproj" Id="70038373-a502-4b9f-928b-41185555363b" />
   <Project Path="Pretparkpoort/Pretparkpoort.csproj" Id="748866a1-5267-493e-8524-69e1153be9e9" />
+  <Project Path="Quiz/Quiz.csproj" Id="501c19b7-1485-4ad8-be3f-18dbc5c48b05" />
   <Project Path="Schoenverkoper/Schoenverkoper.csproj" Id="b08e2fba-4a50-4734-b100-7a2dd8d288af" />
   <Project Path="Schrikkeljaar/Schrikkeljaar.csproj" Id="3f0df78c-d871-4418-9304-08e4855500f4" />
   <Project Path="Stemwijzer/Stemwijzer.csproj" Id="2dfb2db8-70e4-4deb-a5f7-105878077d95" />
