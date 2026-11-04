@@ -7,16 +7,14 @@ namespace Euler_project
         static void Main(string[] args)
         {
             int som = 0;
-            for (int n = 0; n<=10; n++)
+            for (int n = 0; n<=1000; n++)
             {
                 int deelDoor3 = n % 3;
                 int deelDoor5 = n % 5;
                 if ((deelDoor3 == 0) || (deelDoor5 == 0))
                 {
-                    
-
+                    som += n;
                 }
-                som += n;
                 Console.WriteLine(som);
             }
         }
