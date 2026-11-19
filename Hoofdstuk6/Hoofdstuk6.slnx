@@ -1,7 +1,11 @@
 <Solution>
   <Project Path="Euler project/Euler project.csproj" />
   <Project Path="Hoofdstuk6/Hoofdstuk6.csproj" />
+  <Project Path="Sterrenpatronen/Sterrenpatronen.csproj" Id="8128de8a-98ee-4816-9c4e-ac1a119369c8" />
+  <Project Path="SterrenpatronenD3/SterrenpatronenD3.csproj" Id="0889629b-3da7-4fc6-8da1-e581208fc4d5" />
+  <Project Path="SterrenpatroonD2/SterrenpatroonD2.csproj" Id="89723db8-e7c3-4e86-b8e5-aaa0b090fbc9" />
   <Project Path="Tafels van supervermenigvuldigen/Tafels van supervermenigvuldigen.csproj" Id="9d6f4fc6-2b39-4b21-8af4-a2adb0497227" />
   <Project Path="Tafels van vermenigvuldigen 1/Tafels van vermenigvuldigen 1.csproj" />
+  <Project Path="Tekenen/Tekenen.csproj" Id="ddc561e3-f361-4761-ad50-1fed0e38cd8e" />
   <Project Path="Trace de teller/Trace de teller.csproj" />
 </Solution>
