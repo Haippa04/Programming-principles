@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Euler project/Euler project.csproj" />
   <Project Path="Hoofdstuk6/Hoofdstuk6.csproj" />
+  <Project Path="Tafels van supervermenigvuldigen/Tafels van supervermenigvuldigen.csproj" Id="9d6f4fc6-2b39-4b21-8af4-a2adb0497227" />
   <Project Path="Tafels van vermenigvuldigen 1/Tafels van vermenigvuldigen 1.csproj" />
   <Project Path="Trace de teller/Trace de teller.csproj" />
 </Solution>

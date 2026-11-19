@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="BMI met if/BMI met if.csproj" Id="828be0cc-83ef-4a90-ae45-508932b172a7" />
   <Project Path="Casino/Casino.csproj" />
+  <Project Path="Kleurcode weerstand naar ohm/Kleurcode weerstand naar ohm.csproj" Id="55d976c8-0bf3-4434-94f9-7e8cfa488169" />
   <Project Path="Ohm-berekenaar/Ohm-berekenaar.csproj" Id="ab3f64de-a32c-4f08-ab1c-afbd9c28e8fb" />
   <Project Path="Orakeltje van Delphi, part deux/Orakeltje van Delphi, part deux.csproj" Id="70038373-a502-4b9f-928b-41185555363b" />
   <Project Path="Pretparkpoort/Pretparkpoort.csproj" Id="748866a1-5267-493e-8524-69e1153be9e9" />
